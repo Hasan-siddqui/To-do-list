@@ -1,6 +1,7 @@
 
 **To-Do List App**
-Table of Contents
-App Specialties
-Set Up the Database
-Set Up PHP Mailer
+
+1. Table of Contents
+2. App Specialties
+3. Set Up the Database
+4. Set Up PHP Mailer
