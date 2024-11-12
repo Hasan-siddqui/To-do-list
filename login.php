@@ -15,7 +15,7 @@
     <meta property="og:title" content="Login - To-Do List App">
     <meta property="og:description" content="Login to access your To-Do List and manage tasks.">
     <meta property="og:image" content="path/to/your/logo.jpg">
-    <meta property="og:url" content="http://yourwebsite.com/login">
+    <meta property="og:url" content="https://hasan-siddqui.github.io/To-do-list/login.php">
     <meta name="twitter:card" content="summary_large_image">
 
     <title>Login - To-Do List App</title>

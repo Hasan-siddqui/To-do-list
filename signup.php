@@ -15,7 +15,7 @@
     <meta property="og:title" content="Signup - To-Do List App">
     <meta property="og:description" content="Sign up to create your account and start managing your tasks.">
     <meta property="og:image" content="path/to/your/logo.jpg">
-    <meta property="og:url" content="http://yourwebsite.com/signup">
+    <meta property="og:url" content="https://hasan-siddqui.github.io/To-do-list/signup.php">
     <meta name="twitter:card" content="summary_large_image">
 
     <title>Signup - To-Do List App</title>

@@ -27,7 +27,7 @@ $user_id = $_SESSION['user_id'];
     <meta property="og:title" content="To-Do List App - Manage Tasks Effectively">
     <meta property="og:description" content="Easily manage your tasks with our to-do list app. Stay organized and never forget a task again!">
     <meta property="og:image" content="path/to/image.jpg">
-    <meta property="og:url" content="http://yourwebsite.com">
+    <meta property="og:url" content="https://hasan-siddqui.github.io/To-do-list/">
     <meta name="twitter:card" content="summary_large_image">
     <title>Task Manager & To-Do List App - Stay Organized and Productive</title>
     <link rel="stylesheet" href="style.css">
