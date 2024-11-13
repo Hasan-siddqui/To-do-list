@@ -28,6 +28,7 @@ To set up the database for the To-Do List App, follow these steps:
        created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
    );
 3. Create Tasks Table: Run the following SQL command to create a tasks table to store the tasks.<br>
+  ```sql
   CREATE TABLE tasks (<br>
     id INT(11) AUTO_INCREMENT PRIMARY KEY,<br>
     user_id INT(11) NOT NULL,<br>
