@@ -27,16 +27,16 @@ To set up the database for the To-Do List App, follow these steps:
        email VARCHAR(255) NOT NULL,
        created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
    );
-3. Create Tasks Table: Run the following SQL command to create a tasks table to store the tasks.
-  CREATE TABLE tasks (
-    id INT(11) AUTO_INCREMENT PRIMARY KEY,
-    user_id INT(11) NOT NULL,
-    task_text VARCHAR(255) NOT NULL,
-    due_date DATE NULL,
-    completed TINYINT(1) DEFAULT 0,
-    notified TINYINT(1) DEFAULT 0,
-    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
-    FOREIGN KEY (user_id) REFERENCES users(id)
+3. Create Tasks Table: Run the following SQL command to create a tasks table to store the tasks.<br>
+  CREATE TABLE tasks (<br>
+    id INT(11) AUTO_INCREMENT PRIMARY KEY,<br>
+    user_id INT(11) NOT NULL,<br>
+    task_text VARCHAR(255) NOT NULL,<br>
+    due_date DATE NULL,<br>
+    completed TINYINT(1) DEFAULT 0,<br>
+    notified TINYINT(1) DEFAULT 0,<br>
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,<br>
+    FOREIGN KEY (user_id) REFERENCES users(id)<br>
 );
 
 **Table Details:**
